@@ -1,1 +1,2 @@
 # Assembly-Projects
+#Here you will find two different projects. One is an adaptation of a hangman game. The main difference is that instead of a hang man its just a snake. This is how it will look like ex: "<-----". The other project just simply capitalizes any string you give it, and if the string is already capitalized then it will just output what was already inputted. It goes through each character and based on the ascii table it checks to see whether or not the value is associated to the capital value of that letter or not.
